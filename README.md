@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Cody Emerson!
 
-<!--
-**cody-emerson/cody-emerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a Software Engineer with experience in Educational Virtual Reality research and Customer Service development spaces.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+let cody = {
+    pronouns: "He" | "Him",
+    languages: ["Javascript", "Python", "C#", "HTML", "CSS", "SQL", "Java"],
+    technologies: {
+        frameworks: ["React", "AngularJS"],
+        platforms: ["Salesforce", "Unity", "Heroku", "Docker", "ServiceNow"],
+        databases: ["Azure Data Studio", "MSSQL", "PostgreSQL", "Redis"],
+    },
+    askMeAbout: ["web dev", "tech", "VR dev", "homelab"]
+};
+```
